@@ -19,7 +19,7 @@
 
 .secciones{
     display: flex;
-    background-image: url("../imagenes/WhatsApp Image 2026-01-07 at 3.01.18 PM.jpeg");
+    background-image: url("imagenes/WhatsApp Image 2026-01-07 at 3.01.18 PM.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; 
@@ -606,4 +606,5 @@ overflow: hidden;
     .video--text p{
         font-size: 23px;
     }
+
 }
